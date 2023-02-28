@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Header](https://github.com/M0r0shka/m0r0shka/blob/main/assets/Frame.png)](https://)
-
+[![Header](https://github.com/M0r0shka/m0r0shka/blob/main/assets/frame.png)](https://)
+## I'm a Manual QA
 ## My CV
 [Link to my CV](https://drive.google.com/file/)
 
