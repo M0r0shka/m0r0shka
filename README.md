@@ -27,7 +27,8 @@ Here are some ideas to get you started:
 ![Header](https://img.shields.io/badge/MySQL-090909?style=for-the-badge&logo=mysql&logoColor=00618a)
 ![Header](https://img.shields.io/badge/DevTools-090909?style=for-the-badge&logo=googlechrome&logoColor=2674f2)
 ![Header](https://img.shields.io/badge/AndroidStudio-090909?style=for-the-badge&logo=androidstudio&logoColor=3ad07d)
-
+![Header](https://img.shields.io/badge/HTML-090909?style=for-the-badge&logo=html5&logoColor=3ad07d)
+![Header](https://img.shields.io/badge/CSS-090909?style=for-the-badge&logo=css3&logoColor=3ad07d)
 
 ### Testing Documentation
 
