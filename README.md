@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Header](https://github.com/M0r0shka/m0r0shka/blob/main/assets/frame.png)](https://)
+[![Header](https://github.com/M0r0shka/m0r0shka/blob/main/assets/git-kosmos.png)](https://)
 ## I'm a beginner Manual QA
 ## My CV
 [Link to my CV](https://drive.google.com/file/)
@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 ![GitHub](https://img.shields.io/badge/Github-090909?style=for-the-badge&logo=github&logoColor=8cc4d7)
 ![Figma](https://img.shields.io/badge/Figma-090909?style=for-the-badge&logo=figma&logoColor=7d5fa6)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-090909?style=for-the-badge&logo=adobephotoshop&logoColor=7d5fa7)
-![SQL](https://img.shields.io/badge/-SQL-090909?style=for-the-badge&logo=mysql&logoColor=00618a)
+![SQL](https://img.shields.io/badge/-SQL-090909?style=for-the-badge&logo=postgresql&logoColor=00618a)
 ![DevTools](https://img.shields.io/badge/DevTools-090909?style=for-the-badge&logo=googlechrome&logoColor=2674f2)
 ![Header](https://img.shields.io/badge/AndroidStudio-090909?style=for-the-badge&logo=androidstudio&logoColor=3ad07d)
 ![Header](https://img.shields.io/badge/HTML-090909?style=for-the-badge&logo=html5&logoColor=3ad07d)
